@@ -1,4 +1,4 @@
-# DALL-E Clone MERN App
+# AI-Image Generator (DALL-E Clone) MERN App
 
 <!-- /![DALL-E Clone Logo](link_to_your_logo_or_image) -->
 
