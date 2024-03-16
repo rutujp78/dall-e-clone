@@ -41,6 +41,12 @@ This project is a whimsical exploration into the world of image generation using
 
 *Community/Landing Page*
 
+## Architecture
+<img src="https://github.com/rutujp78/dall-e-clone/assets/76244494/db2b88d1-f540-456d-ad7e-dcc11b40ae0c" alt="architecture" width="540" />
+
+## MongoDB Collection Schema
+<img src="https://github.com/rutujp78/dall-e-clone/assets/76244494/64c464f8-425e-4d45-91f0-6d4d52e7227e" alt="mogodb-collection-schema" width="360" />
+
 <!-- ![Demo Screenshot 2](path_to_demo_screenshot_2)
 *Caption for Demo Screenshot 2*
 
